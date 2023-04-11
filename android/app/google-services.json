@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "478483004577",
+    "project_id": "shivshakti-903ed",
+    "storage_bucket": "shivshakti-903ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478483004577:android:722abf41578e650a67c4e0",
+        "android_client_info": {
+          "package_name": "com.myproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478483004577-9v23jefqm9cto08d2j9f24mp4qid4vst.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpXfSFhha3iDaXEjLLTw-FtGbO2s9l6N0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478483004577-9v23jefqm9cto08d2j9f24mp4qid4vst.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

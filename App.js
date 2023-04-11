@@ -1,14 +1,17 @@
 /* eslint-disable react-native/no-inline-styles */
-import {StyleSheet, Text, View} from 'react-native';
+import {ImageBackground, StyleSheet, Text, View} from 'react-native';
 import React from 'react';
 
 const App = () => {
   return (
-    <View style={{backgroundColor: 'red', flex: 0.5}}>
+    <ImageBackground
+      style={{backgroundColor: 'red', flex: 1}}
+      // source={require('')}
+    >
       <View>
-        <Text style={styles.text}>App</Text>
+        <Text style={styles.text}>Appsss</Text>
       </View>
-    </View>
+    </ImageBackground>
   );
 };
 
